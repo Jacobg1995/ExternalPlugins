@@ -10,6 +10,7 @@ include(":ItemDropper")
 include(":LeftClickCast")
 include(":NeverLog")
 include(":OneClick")
+include("ASPrayer")
 
 for (project in rootProject.children) {
     project.apply {

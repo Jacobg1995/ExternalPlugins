@@ -1,0 +1,4 @@
+com/example/ASPrayer/ASPrayerPlugin.java
+ com.example.ASPrayer.ASPrayerPlugin
+com/example/ASPrayer/ASPrayerConfig.java
+ com.example.ASPrayer.ASPrayerConfig
